@@ -1,0 +1,16 @@
+<!DOCTYPE type PUBLIC '-//NetBeans//DTD annotation type 1.1//EN' 'http://www.netbeans.org/dtds/annotation-type-1_1.dtd'> 
+
+<type 
+	name='bookmark-4'
+	description_key='HINT_BOOKMARK_4'
+	localizing_bundle='net.java.nb.modules.editor.bookmarks.Bundle'
+	visible='true' 
+	glyph='nbresloc:/net/java/nb/modules/editor/bookmarks/resources/bookmark-4.png'
+	type='line'
+        actions='Bookmark4Actions'
+        severity='ok'
+        priority='200'
+        custom_sidebar_color='0x808080'
+        browseable='true'/> 
+
+<!-- if will be highlight used again, use this color: highlight='0xB8E6E6' -->

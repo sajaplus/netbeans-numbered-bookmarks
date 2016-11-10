@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: net.java.nb/2
+OpenIDE-Module-Implementation-Version: 2
+OpenIDE-Module-Install: net/java/nb/modules/editor/bookmarks/Installer.class
+OpenIDE-Module-Layer: net/java/nb/modules/editor/bookmarks/resources/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/java/nb/modules/editor/bookmarks/Bundle.properties
+OpenIDE-Module-Specification-Version: 2.0
+

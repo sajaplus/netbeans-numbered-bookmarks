@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Editors">
+        <folder name="Toolbars">
+            <folder name="Default">                
+                <file name="bookmark-previous.shadow_hidden"/>
+                <file name="bookmark-next.shadow_hidden"/>
+                <file name="bookmark-toggle.shadow_hidden"/>
+                <file name="Separator-after-bookmarks.instance__hidden"/>
+            </folder>
+        </folder>
+        <folder name="AnnotationTypes">
+            <folder name="BookmarkActions_hidden"/>
+            <folder name="ToggleBookmarkActions_show"/>
+            <folder name="GoToBookmarkActions_show"/>
+        </folder>
+    </folder>
+</filesystem>

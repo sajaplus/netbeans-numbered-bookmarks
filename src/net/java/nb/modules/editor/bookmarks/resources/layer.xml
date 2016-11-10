@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.0//EN" "http://www.netbeans.org/dtds/filesystem-1_0.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Edit">
+            <file name="bookmark-toggle-0.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction0"/>
+            </file>
+            <file name="bookmark-toggle-1.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction1"/>
+            </file>
+            <file name="bookmark-toggle-2.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction2"/>
+            </file>
+            <file name="bookmark-toggle-3.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction3"/>
+            </file>
+            <file name="bookmark-toggle-4.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction4"/>
+            </file>
+            <file name="bookmark-toggle-5.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction5"/>
+            </file>
+            <file name="bookmark-toggle-6.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction6"/>
+            </file>
+            <file name="bookmark-toggle-7.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction7"/>
+            </file>
+            <file name="bookmark-toggle-8.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction8"/>
+            </file>
+            <file name="bookmark-toggle-9.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.toggle.ToggleBookmarkAction$ToggleBookmarkAction9"/>
+            </file>
+            <file name="goto-bookmark-0.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction0"/>
+            </file>
+            <file name="goto-bookmark-1.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction1"/>
+            </file>
+            <file name="goto-bookmark-2.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction2"/>
+            </file>
+            <file name="goto-bookmark-3.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction3"/>
+            </file>
+            <file name="goto-bookmark-4.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction4"/>
+            </file>
+            <file name="goto-bookmark-5.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction5"/>
+            </file>
+            <file name="goto-bookmark-6.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction6"/>
+            </file>
+            <file name="goto-bookmark-7.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction7"/>
+            </file>
+            <file name="goto-bookmark-8.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction8"/>
+            </file>
+            <file name="goto-bookmark-9.instance">
+                <attr name="instanceCreate" newvalue="net.java.nb.lib.editor.bookmarks.actions.go.GoToBookmarkAction$GoToBookmarkAction9"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="GoTo">
+            <folder name="Toggle Bookmarks">
+                <attr name="position" intvalue="1700"/>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-0.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-0.instance"/>
+                    <attr name="position" intvalue="1700"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-1.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-1.instance"/>
+                    <attr name="position" intvalue="1710"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-2.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-2.instance"/>
+                    <attr name="position" intvalue="1720"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-3.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-3.instance"/>
+                    <attr name="position" intvalue="1730"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-4.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-4.instance"/>
+                    <attr name="position" intvalue="1740"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-5.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-5.instance"/>
+                    <attr name="position" intvalue="1750"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-6.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-6.instance"/>
+                    <attr name="position" intvalue="1760"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-7.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-7.instance"/>
+                    <attr name="position" intvalue="1770"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-8.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-8.instance"/>
+                    <attr name="position" intvalue="1780"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-ToggleBookmark-9.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-9.instance"/>
+                    <attr name="position" intvalue="1790"/>
+                </file>
+            </folder>
+            <folder name="Go To Bookmarks">
+                <attr name="position" intvalue="1710"/>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-0.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-0.instance"/>
+                    <attr name="position" intvalue="1800"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-1.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-1.instance"/>
+                    <attr name="position" intvalue="1810"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-2.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-2.instance"/>
+                    <attr name="position" intvalue="1820"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-3.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-3.instance"/>
+                    <attr name="position" intvalue="1830"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-4.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-4.instance"/>
+                    <attr name="position" intvalue="1840"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-5.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-5.instance"/>
+                    <attr name="position" intvalue="1850"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-6.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-6.instance"/>
+                    <attr name="position" intvalue="1860"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-7.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-7.instance"/>
+                    <attr name="position" intvalue="1870"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-8.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-8.instance"/>
+                    <attr name="position" intvalue="1880"/>
+                </file>
+                <file name="org-netbeans-editor-bookmarks-GoToBookmark-9.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-9.instance"/>
+                    <attr name="position" intvalue="1890"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Editors">
+        <folder name="AnnotationTypes">
+            <file name="bookmark0.xml" url="bookmark0.xml"/>
+            <file name="bookmark1.xml" url="bookmark1.xml"/>
+            <file name="bookmark2.xml" url="bookmark2.xml"/>
+            <file name="bookmark3.xml" url="bookmark3.xml"/>
+            <file name="bookmark4.xml" url="bookmark4.xml"/>
+            <file name="bookmark5.xml" url="bookmark5.xml"/>
+            <file name="bookmark6.xml" url="bookmark6.xml"/>
+            <file name="bookmark7.xml" url="bookmark7.xml"/>
+            <file name="bookmark8.xml" url="bookmark8.xml"/>
+            <file name="bookmark9.xml" url="bookmark9.xml"/>
+            <file name="toggleBookmark.xml" url="toggleBookmark.xml"/>
+            <folder name="ToggleBookmarkActions">
+                <file name="bookmark-toggle-0.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-0.instance"/>
+                </file>
+                <file name="bookmark-toggle-1.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-1.instance"/>
+                </file>
+                <file name="bookmark-toggle-2.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-2.instance"/>
+                </file>
+                <file name="bookmark-toggle-3.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-3.instance"/>
+                </file>
+                <file name="bookmark-toggle-4.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-4.instance"/>
+                </file>
+                <file name="bookmark-toggle-5.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-5.instance"/>
+                </file>
+                <file name="bookmark-toggle-6.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-6.instance"/>
+                </file>
+                <file name="bookmark-toggle-7.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-7.instance"/>
+                </file>
+                <file name="bookmark-toggle-8.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-8.instance"/>
+                </file>
+                <file name="bookmark-toggle-9.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/bookmark-toggle-9.instance"/>
+                </file>
+            </folder>
+            <file name="goToBookmark.xml" url="goToBookmark.xml"/>
+            <folder name="GoToBookmarkActions">
+                <file name="goto-bookmark-0.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-0.instance"/>
+                </file>
+                <file name="goto-bookmark-1.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-1.instance"/>
+                </file>
+                <file name="goto-bookmark-2.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-2.instance"/>
+                </file>
+                <file name="goto-bookmark-3.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-3.instance"/>
+                </file>
+                <file name="goto-bookmark-4.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-4.instance"/>
+                </file>
+                <file name="goto-bookmark-5.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-5.instance"/>
+                </file>
+                <file name="goto-bookmark-6.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-6.instance"/>
+                </file>
+                <file name="goto-bookmark-7.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-7.instance"/>
+                </file>
+                <file name="goto-bookmark-8.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-8.instance"/>
+                </file>
+                <file name="goto-bookmark-9.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Edit/goto-bookmark-9.instance"/>
+                </file>
+            </folder>            
+        </folder>
+    </folder>
+    <folder name="OptionsDialog">
+        <folder name="Advanced">
+            <file name="net-java-nb-modules-editor-bookmarks-option-BookmarksAdvancedOption.instance"/>
+        </folder>
+    </folder>
+</filesystem>
